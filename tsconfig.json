@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+        "moduleDetection": "force",
+        "allowSyntheticDefaultImports": true,
+        "strictNullChecks": true,
+        "allowJs": true,
+        "target": "ESNext",
+        "moduleResolution": "Node",
+        "module": "Preserve",
+        "declaration": true,
+        "verbatimModuleSyntax": true,
+        "noImplicitOverride": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "outDir": "dist",
+        "lib": ["ESNext"]
+    },
+    "include": ["src"],
+    "exclude": ["ignore", "node_modules", "note"]
+}

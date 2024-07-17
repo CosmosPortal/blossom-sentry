@@ -1,0 +1,12 @@
+# Directories
+/dist
+/node_modules
+/note
+/Storage
+
+# Notes
+/ignore
+.env
+
+# OS
+.DS_Store
