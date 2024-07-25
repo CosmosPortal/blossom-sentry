@@ -1,12 +1,8 @@
-# Directories
 /dist
+/ignore
 /node_modules
 /note
-/Storage
+/storage
 
-# Notes
-/ignore
 .env
-
-# OS
 .DS_Store
